@@ -1,0 +1,15 @@
+C:\Atualizar\ADDON_IPT\SapConsultaCep\SapConsultaCep\bin\x86\Release\SapConsultaCep.exe.config
+C:\Atualizar\ADDON_IPT\SapConsultaCep\SapConsultaCep\bin\x86\Release\SapConsultaCep.exe
+C:\Atualizar\ADDON_IPT\SapConsultaCep\SapConsultaCep\bin\x86\Release\SapConsultaCep.pdb
+C:\Atualizar\ADDON_IPT\SapConsultaCep\SapConsultaCep\bin\x86\Release\Newtonsoft.Json.dll
+C:\Atualizar\ADDON_IPT\SapConsultaCep\SapConsultaCep\bin\x86\Release\Newtonsoft.Json.xml
+C:\Atualizar\ADDON_IPT\SapConsultaCep\SapConsultaCep\obj\x86\Release\Interop.SAPbobsCOM.dll
+C:\Atualizar\ADDON_IPT\SapConsultaCep\SapConsultaCep\obj\x86\Release\Interop.SAPbouiCOM.dll
+C:\Atualizar\ADDON_IPT\SapConsultaCep\SapConsultaCep\obj\x86\Release\SapConsultaCep.csproj.ResolveComReference.cache
+C:\Atualizar\ADDON_IPT\SapConsultaCep\SapConsultaCep\obj\x86\Release\SapConsultaCep.Properties.Resources.resources
+C:\Atualizar\ADDON_IPT\SapConsultaCep\SapConsultaCep\obj\x86\Release\SapConsultaCep.csproj.GenerateResource.cache
+C:\Atualizar\ADDON_IPT\SapConsultaCep\SapConsultaCep\obj\x86\Release\SapConsultaCep.csproj.CoreCompileInputs.cache
+C:\Atualizar\ADDON_IPT\SapConsultaCep\SapConsultaCep\obj\x86\Release\SapConsultaCep.csproj.CopyComplete
+C:\Atualizar\ADDON_IPT\SapConsultaCep\SapConsultaCep\obj\x86\Release\SapConsultaCep.exe
+C:\Atualizar\ADDON_IPT\SapConsultaCep\SapConsultaCep\obj\x86\Release\SapConsultaCep.pdb
+C:\Atualizar\ADDON_IPT\SapConsultaCep\SapConsultaCep\obj\x86\Release\SapConsultaCep.csprojAssemblyReference.cache

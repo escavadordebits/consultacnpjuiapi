@@ -1,0 +1,15 @@
+C:\Dev\SapConsultaCep\SapConsultaCep\bin\Release\SapConsultaCep.exe.config
+C:\Dev\SapConsultaCep\SapConsultaCep\bin\Release\SapConsultaCep.exe
+C:\Dev\SapConsultaCep\SapConsultaCep\bin\Release\SapConsultaCep.pdb
+C:\Dev\SapConsultaCep\SapConsultaCep\bin\Release\Newtonsoft.Json.dll
+C:\Dev\SapConsultaCep\SapConsultaCep\bin\Release\Newtonsoft.Json.xml
+C:\Dev\SapConsultaCep\SapConsultaCep\obj\Release\SapConsultaCep.csproj.AssemblyReference.cache
+C:\Dev\SapConsultaCep\SapConsultaCep\obj\Release\Interop.SAPbobsCOM.dll
+C:\Dev\SapConsultaCep\SapConsultaCep\obj\Release\Interop.SAPbouiCOM.dll
+C:\Dev\SapConsultaCep\SapConsultaCep\obj\Release\SapConsultaCep.csproj.ResolveComReference.cache
+C:\Dev\SapConsultaCep\SapConsultaCep\obj\Release\SapConsultaCep.Properties.Resources.resources
+C:\Dev\SapConsultaCep\SapConsultaCep\obj\Release\SapConsultaCep.csproj.GenerateResource.cache
+C:\Dev\SapConsultaCep\SapConsultaCep\obj\Release\SapConsultaCep.csproj.CoreCompileInputs.cache
+C:\Dev\SapConsultaCep\SapConsultaCep\obj\Release\SapConsultaCep.csproj.CopyComplete
+C:\Dev\SapConsultaCep\SapConsultaCep\obj\Release\SapConsultaCep.exe
+C:\Dev\SapConsultaCep\SapConsultaCep\obj\Release\SapConsultaCep.pdb
